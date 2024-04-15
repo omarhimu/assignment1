@@ -31,7 +31,7 @@ class BankAccount {
 }
 
 // Example usage:
-const account = new BankAccount(1001, "John Doe", 500);
+const account = new BankAccount(1001, "omar", 500);
 account.displayAccountInfo(); // Display initial account info
 account.deposit(200); // Deposit $200
 account.withdraw(100); // Withdraw $100
